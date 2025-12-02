@@ -2,9 +2,7 @@
 
 👋 Hi, I’m Debmalya  
 
- ML • NLP • LLM • RAG Engineer  
-
-B.Tech (Information Technology) undergraduate passionate about  
+A B.Tech (Information Technology) undergraduate in Kalyani Government Engineering College (KGEC) passionate about  
 **Machine Learning, Deep Learning, Large Language Models, and AI Systems**.  
 
 I focus on building **practical, scalable, and human-centric AI solutions**  
