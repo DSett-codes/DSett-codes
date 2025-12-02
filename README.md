@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Debmalya  
 
-A B.Tech (Information Technology) undergraduate in Kalyani Government Engineering College (KGEC) passionate about  
+A B.Tech IT (Information Technology) undergraduate in Kalyani Government Engineering College (KGEC) passionate about  
 **Machine Learning, Deep Learning, Large Language Models, and AI Systems**.  
 
 I focus on building **practical, scalable, and human-centric AI solutions**  
