@@ -14,20 +14,6 @@ Machine Learning • Deep Learning • NLP
 Large Language Models (LLMs) • RAG Systems  
 Computer Vision • AI Engineering • MLOps  
 
-🛠️ Tech Stack  
-
-**Languages & Frameworks**  
-Python • C • NumPy • Pandas • Scikit-Learn  
-PyTorch • TensorFlow (Basics)  
-
-**NLP & LLM Stack**  
-Transformers (Hugging Face) • LangChain  
-Prompt Engineering • Embeddings • Vector Search  
-
-**RAG & AI Systems**  
-ChromaDB • Document Chunking • Retrieval Pipelines  
-Context-aware Question Answering  
-
 💡 What I Build  
 
 End-to-end AI systems — from data & models  
