@@ -7,20 +7,14 @@ A B.Tech IT (Information Technology) undergraduate in Kalyani Government Enginee
 
 I focus on building **practical, scalable, and human-centric AI solutions**  
 for education, healthcare, and public services.
+I aim to use AI **not just for performance,  
+but for real-world impact and ethical scalability.**
 
 🧠 Core Expertise 
 
 Machine Learning • Deep Learning • NLP  
 Large Language Models (LLMs) • RAG Systems  
 Computer Vision • AI Engineering • MLOps  
-
-💡 What I Build  
-
-End-to-end AI systems — from data & models  
-to deployment and user-friendly interfaces.  
-
-I aim to use AI **not just for performance,  
-but for real-world impact and ethical scalability.**
 
 🌐 Socials:
 
