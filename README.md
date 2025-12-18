@@ -13,7 +13,7 @@ but for real-world impact and ethical scalability.**
 🧠 Core Expertise 
 
 Machine Learning • Deep Learning • NLP  
-Large Language Models (LLMs) • RAG Systems 
+Large Language Models (LLMs) • RAG Systems • 
 AI Engineering • MLOps  
 
 🌐 Socials:
