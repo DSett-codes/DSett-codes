@@ -5,6 +5,8 @@
 ### 👋 Hi, I’m Debmalya 
   
 A part time IT undergrad and a full time lazyass. You are welcome to connect and collaborate...
+[!LinkedIn(<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ca3b424c-7e96-434b-ace7-30378409ca96" />)](https://www.linkedin.com/in/debmalyasett/)
+
 
 ### 💻 Tech Stack:
 
