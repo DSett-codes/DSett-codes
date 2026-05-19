@@ -14,7 +14,7 @@ A part time IT undergrad and a full time lazyass. You are welcome to connect and
 </div>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Debvex&theme=github_dark" width="400" alt="Live Stream">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Debvex&theme=github_dark" width="1000" alt="Live Stream">
 </p>
 
 
