@@ -18,4 +18,3 @@ A part time IT undergrad and a full time lazyass. You are welcome to connect and
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Debvex&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
