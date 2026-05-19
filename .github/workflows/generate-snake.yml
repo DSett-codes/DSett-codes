@@ -1,9 +1,13 @@
 name: generate snake game from github contribution grid
 
 on:
-  schedule: # execute every 24 hours
-    - cron: "0 */24 * * *"
+  schedule:
+    # Runs exactly once a day at midnight UTC (100% standard syntax)
+    - cron: "0 0 * * *"
   workflow_dispatch:
+  # Allows you to trigger it via API or repository events to prevent 60-day sleep
+  repository_dispatch:
+    types: [keepalive]
 
 permissions:
   contents: write
@@ -14,6 +18,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      # CRITICAL: Need to clone the repo first so actions can interact with the files
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
