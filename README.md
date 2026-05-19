@@ -14,7 +14,7 @@ A part time IT undergrad and a full time lazyass. You are welcome to connect and
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Debvex/Debvex/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Debvex/Debvex/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Debvex/Debvex/output/github-snake.svg" />
 </picture>
