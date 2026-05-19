@@ -8,6 +8,9 @@ on:
 permissions: 
   contents: write
 
+permissions:
+  contents: write
+
 jobs:
   build:
     name: jobs to generate svg and pngs
