@@ -1,6 +1,11 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br> -->
+<video autoplay loop playsinline width="100%">
+  <source src="e_a_a_a_f_df_f_a_amp_.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
   
 ### 👋 Hi, I’m Debmalya 
   
