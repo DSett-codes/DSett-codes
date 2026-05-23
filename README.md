@@ -4,8 +4,13 @@
 ### 👋 Hi, I’m 
 <img width="669" height="115" alt="Debmalya-Sett (1)" src="https://github.com/user-attachments/assets/233b4584-fa2e-47ec-88b9-d1dea7e3cefa" />
 
-  
-A part time IT undergrad and a full time lazyass. You are welcome to connect and collaborate...
+---
+
+### About Me: 
+
+A 2nd-year B.Tech IT undergraduate at Kalyani Government Engineering College with grasp on Machine Learning, Deep Learning, Natural Language Processing, Generative AI and Agentic AI. My journey in tech is driven by a fascination with how Generative AI interacts with already existing software technologies to solve complex problems and create even cooler stuff. I am also a founding member of the IEEE SMC (System Man Cybernetics) Student Branch Chapter in our department. Although I feel left out by this AI superspeeded development, I try to focus and understand the few things I can keep track of...
+
+### More Details:
 [<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/453c3e4c-aa82-408d-9e55-83533b6ca02e" />](https://www.linkedin.com/in/debmalyasett/)
 
 
