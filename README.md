@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br>
   
-### 👋 Hi, I’m Debmalya 
+### 👋 Hi, I’m 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
   
 A part time IT undergrad and a full time lazyass. You are welcome to connect and collaborate...
 [<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/453c3e4c-aa82-408d-9e55-83533b6ca02e" />](https://www.linkedin.com/in/debmalyasett/)
