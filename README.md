@@ -2,7 +2,7 @@
 <br>
   
 ### 👋 Hi, I’m 
-<img width="669" height="115" alt="Debmalya-Sett (1)" src="https://github.com/user-attachments/assets/233b4584-fa2e-47ec-88b9-d1dea7e3cefa" />
+<img width="549" height="148" alt="Debmalya" src="https://github.com/user-attachments/assets/5eab19ed-7e04-4c1d-8b71-2b56e3741740" />
 
 ---
 
