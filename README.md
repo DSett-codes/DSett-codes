@@ -12,7 +12,7 @@ A 2nd-year B.Tech IT undergraduate at Kalyani Government Engineering College wit
 
 ### More Details:
 [<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/453c3e4c-aa82-408d-9e55-83533b6ca02e" />](https://www.linkedin.com/in/debmalyasett/)
-[<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/15d62835-1df6-4ba0-934b-6d27d0f204b0" />](https://steamcommunity.com/id/debvex/)
+[<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/15d62835-1df6-4ba0-934b-6d27d0f204b0" />](https://steamcommunity.com/id/debvex/)
 
 
 
