@@ -3,7 +3,7 @@
   
 ### 👋 Hi, I’m 
 <img width="549" height="148" alt="Debmalya" src="https://github.com/user-attachments/assets/5eab19ed-7e04-4c1d-8b71-2b56e3741740" />&nbsp;
-[<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/15d62835-1df6-4ba0-934b-6d27d0f204b0" />](https://steamcommunity.com/id/debvex/)
+[<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/15d62835-1df6-4ba0-934b-6d27d0f204b0" />](https://steamcommunity.com/id/debvex/)
 ---
 
 ### About Me: 
