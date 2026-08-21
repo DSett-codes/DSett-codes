@@ -10,13 +10,14 @@
 
 A 3rd-year B.Tech IT undergraduate at Kalyani Government Engineering College with grasp on Machine Learning, Deep Learning, Natural Language Processing, Generative AI and Agentic AI. My journey in tech is driven by a fascination with how Generative AI interacts with already existing software technologies to solve complex problems and create even cooler stuff. I am also a founding member of the IEEE SMC (System Man Cybernetics) Student Branch Chapter in our department. Although I feel left out by this AI superspeeded development, I try to focus and understand the few things I can keep track of...
 
-### Connect:
-
-[<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/453c3e4c-aa82-408d-9e55-83533b6ca02e" />](https://www.linkedin.com/in/debmalyasett/) &nbsp; &nbsp;
-[<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/aa9be16a-8936-40fe-92b8-4352446f5777" />](https://discordapp.com/users/1336557971647234048) &nbsp; &nbsp;
-[<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/15d62835-1df6-4ba0-934b-6d27d0f204b0" />](https://steamcommunity.com/id/debvex/)
+<h3 align="right">Connect:</h3>
 
 
+[<img width="50" height="50" alt="image" align="right" src="https://github.com/user-attachments/assets/453c3e4c-aa82-408d-9e55-83533b6ca02e" />](https://www.linkedin.com/in/debmalyasett/) &nbsp; &nbsp;
+[<img width="50" height="50" alt="image" align="right" src="https://github.com/user-attachments/assets/aa9be16a-8936-40fe-92b8-4352446f5777" />](https://discordapp.com/users/1336557971647234048) &nbsp; &nbsp;
+[<img width="50" height="50" alt="image" align="right" src="https://github.com/user-attachments/assets/15d62835-1df6-4ba0-934b-6d27d0f204b0" />](https://steamcommunity.com/id/debvex/)
+&nbsp; &nbsp;
+<img width="50%" height="50%" alt="image" align="right" src="https://github.com/user-attachments/assets/8bb4404a-3d48-440e-94b5-acdac4c54311" />
 
 ### 💻 Tech Stack:
 
