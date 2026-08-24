@@ -7,7 +7,7 @@
 <img width="549" height="148" alt="Debmalya" src="https://github.com/user-attachments/assets/5eab19ed-7e04-4c1d-8b71-2b56e3741740" />&nbsp;
 
 ---
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](settdebmalya273@gmail.com) &nbsp; &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:settdebmalya273@gmail.com) &nbsp; &nbsp;
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1336557971647234048) 
 ### About Me: 
 
