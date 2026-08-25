@@ -7,7 +7,7 @@
 <img width="549" height="148" alt="Debmalya" src="https://github.com/user-attachments/assets/5eab19ed-7e04-4c1d-8b71-2b56e3741740" />
 </div>
 <p align="center">
-    <strong>👾 Casual Developer | 🕹️ Hardcore Gamer | 🏆 Achievement Hunter</strong>
+    <strong>👾 Casual Developer | 🕹️ Hardcore Gamer</strong>
 </p>
   
 ---
